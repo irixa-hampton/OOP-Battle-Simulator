@@ -42,3 +42,4 @@ class Hero:
     #TODO define is_alive
     def is_alive(self):
         return self.health > 0
+print("Irixa waz here")
